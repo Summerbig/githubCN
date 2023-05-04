@@ -4,7 +4,7 @@ const allData = [
   [`Issues`, `问题`],
   [`Pull`, `合并`],
   [`request`, `请求`],
-  [`s`, ``],
+  [`star`, `标记星星`],
   [`Marketplace`, `市场`],
   [`Explore`, `探索`],
   [`Following`, `关注者`],
